@@ -1,0 +1,14 @@
+__pycache__/
+jax_cache/
+*.bashrc
+
+*.srt
+*.txt
+
+*.wav
+*.mp3
+*.ogg
+
+*.mp4
+*.m4a
+*.webm
